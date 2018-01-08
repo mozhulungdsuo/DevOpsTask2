@@ -1,0 +1,10 @@
+package program7;
+
+public class CheckVowel {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
